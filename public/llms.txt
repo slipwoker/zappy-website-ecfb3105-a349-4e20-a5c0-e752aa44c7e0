@@ -1,0 +1,79 @@
+# SALDIVAR FAMILY LAW MEDIATION — Generative Engine Optimization Map
+
+> A professional family law mediation practice focused on helping families navigate legal disputes — such as divorce, child custody, and asset division — through structured, neutral mediation rather than adversarial litigation. The practice emphasizes resolution, empathy, and a calm, trustworthy environment to guide clients through emotionally challenging legal processes.
+
+---
+
+## Pages
+
+### Home
+https://saldivar-family-law-mediation-ecfb3105.zappy5.app
+Navigate divorce, custody, and asset division with calm, neutral family law mediation. Turn conflict into resolution with our empathetic, structured approach. Schedule a consultation today.
+
+### Mediation Services
+https://saldivar-family-law-mediation-ecfb3105.zappy5.app/services
+Explore our full range of family law mediation services, from custody agreements to property division. A structured, dignified path forward without the courtroom battle. Start your resolution journey now.
+
+### About the Practice
+https://saldivar-family-law-mediation-ecfb3105.zappy5.app/about
+Discover the empathetic expertise behind Saldivar Family Law Mediation. We guide families through legal crossroads with integrity, calm, and a commitment to fair, lasting solutions. Learn our story.
+
+### Contact
+https://saldivar-family-law-mediation-ecfb3105.zappy5.app/contact
+Ready to move forward with compassionate family law mediation? Reach out now for a confidential consultation. We&#39;ll help your family find common ground with dignity and care. Contact us today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://saldivar-family-law-mediation-ecfb3105.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://saldivar-family-law-mediation-ecfb3105.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://saldivar-family-law-mediation-ecfb3105.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://saldivar-family-law-mediation-ecfb3105.zappy5.app/contact
+- Endpoint: https://saldivar-family-law-mediation-ecfb3105.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About SALDIVAR FAMILY LAW MEDIATION
+A professional family law mediation practice focused on helping families navigate legal disputes — such as divorce, child custody, and asset division — through structured, neutral mediation rather than adversarial litigation. The practice emphasizes resolution, empathy, and a calm, trustworthy environment to guide clients through emotionally challenging legal processes.
+
+## Target Audience
+- Families going through divorce, custody disputes, or other family legal matters
+- Divorcing Couples with Children
+- High Net Worth Families
+- Unmarried Cohabiting Couples
+
+## Industry
+Legal Services / Mediation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://saldivar-family-law-mediation-ecfb3105.zappy5.app/sitemap.xml
+- Robots: https://saldivar-family-law-mediation-ecfb3105.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://saldivar-family-law-mediation-ecfb3105.zappy5.app/llms-full.txt
